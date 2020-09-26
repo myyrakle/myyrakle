@@ -1,5 +1,9 @@
 {
     "git.autofetch": true,
     "editor.formatOnSave": true,
-    "editor.foldingStrategy": "indentation"
+    "editor.foldingStrategy": "indentation",
+    "editor.quickSuggestions": {
+        "comments": true
+    },
+     "terminal.integrated.scrollback": 1000000
 }
