@@ -4,3 +4,6 @@
 
 I am a Korean, and a developer who likes Rust.  
 Mainly working as a web backend.
+
+[crates.io](https://crates.io/users/myyrakle)
+[npm](https://www.npmjs.com/~myyrakle)
