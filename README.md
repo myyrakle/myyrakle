@@ -8,6 +8,5 @@ I am a Korean, and a developer who likes Rust.
 - [crates.io](https://crates.io/users/myyrakle)  
 - [npm](https://www.npmjs.com/~myyrakle)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myyrakle)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myyrakle&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myyrakle&hide=contribs,prs)
