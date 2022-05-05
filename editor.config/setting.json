@@ -15,6 +15,9 @@
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     }, 
+    "[rust]": {
+        "editor.defaultFormatter": "matklad.rust-analyzer"
+    },
     "javascript.preferences.importModuleSpecifier": "relative",
     "typescript.preferences.importModuleSpecifier": "relative"
 }
