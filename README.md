@@ -7,6 +7,7 @@ I am a Korean, and a developer who likes Rust.
 #### my packages
 - [crates.io](https://crates.io/users/myyrakle)  
 - [npm](https://www.npmjs.com/~myyrakle)
+- [pip](https://pypi.org/user/myyrakle)
 
 [![Anurag's GitHub stats](https://github-readme-stats-sandy-gamma.vercel.app/api?username=myyrakle&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
