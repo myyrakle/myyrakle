@@ -2,8 +2,7 @@
 
 ![](https://img.shields.io/badge/language-Rust-red) ![](https://img.shields.io/badge/version-1.0.0-brightgreen) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]() 
   
-I'm a backend developer who loves Rust.
-I have extensive experience with AWS.
+I'm a backend developer who loves Rust.  
 
 ### my packages
 - [crates.io](https://crates.io/users/myyrakle)  
@@ -19,3 +18,4 @@ I have extensive experience with AWS.
 [![Top Langs](https://github-readme-stats-sandy-gamma.vercel.app/api/top-langs/?username=myyrakle)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
+
