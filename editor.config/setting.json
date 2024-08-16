@@ -14,7 +14,7 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     }, 
     "[rust]": {
-        "editor.defaultFormatter": "matklad.rust-analyzer"
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
     },
     "javascript.preferences.importModuleSpecifier": "relative",
     "typescript.preferences.importModuleSpecifier": "relative"
