@@ -5,17 +5,17 @@
     "editor.quickSuggestions": {
         "comments": true
     },
-    "eslint.format.enable": true,
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
+        "source.fixAll.eslint": "always"
     },
     "terminal.integrated.scrollback": 1000000,
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }, 
+    },
     "[rust]": {
         "editor.defaultFormatter": "rust-lang.rust-analyzer"
     },
     "javascript.preferences.importModuleSpecifier": "relative",
-    "typescript.preferences.importModuleSpecifier": "relative"
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "terminal.integrated.fontFamily": "Fira Code"
 }
