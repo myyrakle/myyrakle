@@ -8,7 +8,7 @@ I'm a backend developer who loves Rust.
 - [crates.io](https://crates.io/users/myyrakle)  
 - [npm](https://www.npmjs.com/~myyrakle)
 - [pip](https://pypi.org/user/myyrakle)
-- [docker](https://hub.docker.com/repositories/myyrakle)
+- [docker](https://hub.docker.com/u/myyrakle)
 
 * * *
 
