@@ -4,5 +4,10 @@
         "key": "enter",
         "command": "renameFile",
         "when": "filesExplorerFocus && foldersViewVisible && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
+    },
+    {
+        "key": "ctrl+backspace",
+        "command": "moveFileToTrash",
+        "when": "explorerResourceMoveableToTrash && filesExplorerFocus && foldersViewVisible && !inputFocus"
     }
 ]
